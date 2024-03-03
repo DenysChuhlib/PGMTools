@@ -5,6 +5,8 @@
 [![Foo](https://img.shields.io/badge/README-English-fff700.svg?style=for-the-badge)](https://github-com.translate.goog/DenysChuhlib/PGMTools?_x_tr_sl=uk&_x_tr_tl=en)
 [![Foo](https://img.shields.io/badge/README-Руский-fff700.svg?style=for-the-badge)](https://github-com.translate.goog/DenysChuhlib/PGMTools?_x_tr_sl=uk&_x_tr_tl=ru)
 
+> [!WARNING]
+> **Планується оновлення з виправленням помилок! <br> _Бібліотека покищо не коректно працює з double і float!_**<br>
 
 # PGMTools
 Бібліотека для легкого використання `PROGMEM` змінних.
